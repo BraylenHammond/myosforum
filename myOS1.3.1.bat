@@ -108,5 +108,5 @@ if %downgradechoice% == 2 goto menu
 :downgrading 
 cls
 cd c:\Users\darre\OneDrive\Desktop\myOS-previous
-move myOS1.2.bat C:\Users\darre\OneDrive\Desktop
-move C:\Users\darre\OneDrive\Desktop\myOS1.3.bat c:\Users\darre\OneDrive\Desktop\myOS-previous
+move myOS1.2.bat C:\Users\user\Desktop
+move C:\Users\user\Desktop\myOS1.3.bat c:\Users\darre\OneDrive\Desktop\myOS-previous
